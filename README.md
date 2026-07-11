@@ -53,6 +53,8 @@
 | :--- | :--- | :--- | :--- |
 | **XGBoost_with_Many_Lags_parameters** | `Lag_51/52/53` + `Rolling_Mean_4_Yearly` + `Max_Sales_Yearly_Window`, `n_estimators=600`, `max_depth=5`, `lr=0.02` | $1,645.25 | **$1,927.71** |
 
+<img width="1247" height="528" alt="image" src="https://github.com/user-attachments/assets/67c04d57-c701-4bac-b8cf-6d850e7148ae" />
+
 ერთი შეხედვით შედეგი შთამბეჭდავი ჩანდა — ამ მოდელით გავაკეთე პირველი Kaggle submission (public score: **3111.21**, private: **3223.04**).
 
 <img width="840" height="57" alt="image" src="https://github.com/user-attachments/assets/07d2e02c-9b2a-4472-a8cb-3949e0c2f959" />
